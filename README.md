@@ -25,19 +25,19 @@ The goal of this project is to analyze the sales data of Coffee Shop, a company 
 
 11. Top Selling Products by City
     
-   What are the top 3 selling products in each city based on sales volume?
+    What are the top 3 selling products in each city based on sales volume?
 
 13. Customer Segmentation by City
     
-   How many unique customers are there in each city who have purchased coffee products?
+    How many unique customers are there in each city who have purchased coffee products?
 
 15. Average Sale vs Rent
     
-   Find each city and their average sale per customer and avg rent per customer
+    Find each city and their average sale per customer and avg rent per customer
 
 17. Monthly Sales Growth
     
-   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+    Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
 
 19. Market Potential Analysis
     
